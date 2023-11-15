@@ -1,0 +1,7 @@
+这是 idm 破解工具的归档仓库
+
+此工具由 Ali.Dbg 发布，本人仅在此转载并归档
+
+请支持正版
+
+[changelog](./Changelog.txt)
