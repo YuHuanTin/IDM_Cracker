@@ -4,4 +4,6 @@
 
 如有可能，请支持正版
 
+[工具更新地址](https://idm.ckk.ir/)
+
 [changelog](./Changelog.txt)
