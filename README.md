@@ -7,3 +7,7 @@
 [工具更新地址](https://idm.ckk.ir/)
 
 [changelog](./Changelog.txt)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YuHuanTin/IDM_Cracker&type=Date)](https://star-history.com/#YuHuanTin/IDM_Cracker&Date)
