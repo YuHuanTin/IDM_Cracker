@@ -1,0 +1,311 @@
+IDM Crack By Ali.Dbg : Changelog
+ 
+LEGEND
++ New feature
+* Improvement/modification or bug fix
+
+
+== Change Log v19.8 ==
+  + Crack update check when running the crack
+  + ADD WinRAR/Windows/Office Activation
+  * Other Improvement 
+  * Build #1 CRC32 > 20c376ec
+
+== Change Log v19.7 ==
+  * Improve Patcher Function
+  * Improve Crack UI Function 
+  * Build #1 CRC32 > f4afa791
+
+== Change Log v19.6 ==
+  + NEW EXE UnSigner (Internal)
+  * FIX CmdLine Arguments
+  * Other Improvement 
+  * Build #1 CRC32 > 3a9f8d24
+
+== Change Log v19.5 ==
+  * Remove IDMGrHlp.exe fakeSN Nag
+  * Optional UnSigner/Music
+  * ADD Trial Reset Source
+    to IDM Utility Menu 
+  * Other Improvement 
+  * Build #1 CRC32 > 72566dae
+
+== Change Log v19.4 ==
+  + Remove New TrialExpired Nag
+  + Random Playlist Chiptune
+  * Minor Improvement 
+  * Build #1 CRC32 > 9ef41cdb
+  * Build #2 CRC32 > a0b882ef
+
+== Change Log v19.3 ==
+  + Chiptune Music (uFMOD+notgain)
+  + Change Interface (PersianCat)
+  * IDM Toolbar Skins (Aleksandrows)
+  * Build #1 CRC32 > ace74051
+
+== Change Log v19.2 ==
+  * Fix Interface Font+Unicode
+  * Improved IDM Unsigner
+  * Fix IDMan.exe Backup (-nobak)  
+  * Minor Improvement
+  * Build #1 CRC32 > 8129bcf6
+
+== Change Log v19.1 ==
+  * Fix IDMan.exe Backup
+  * Fix Crack Restore
+  * Fix IDM Unsigner
+  * Minor Improvement
+  * Build #1 CRC32 > 095ab762
+  * Build #2 CRC32 > d939fd6b (Fix Unicode)
+
+== Change Log v19.0 ==
+ + NEW RegReset By WindowsAddict
+ + NEW "Permission Fixer" for RegReset
+ + NEW MiniRegApi By Ben Hochstrasser
+ + NEW "Crack Update Checker"
+ + NEW "IDM Path Finder"
+ + NEW "IDM Task Killer"
+ + NEW "User Privilege Checker"
+ + SHOW IDM Version in Crack
+ + IDM Extra Types [YasserDivaR]
+ * FIX IDM Disabler
+ * MAJOR Improvement
+ * Build #1 CRC32 > 3fcecca0
+ * Build #2 CRC32 > 00f7f27b (Fix Path Finder)
+ 
+== Change Log v18.2 ==
+ * Improved Reg Reset
+ 
+== Change Log v18.1 ==
+ * Improved Reg Reset
+ * Fixed IDM Launch
+ + Added IDM.FS.Cleaner v20.10.13 By yaschir
+ + delete celan.bat and unsigner after patch
+ 
+== Change Log v18.0 ==
+ * Fixed Crack Update
+   Changed Server
+ 
+== Change Log v17.9 ==
+ * Fixed Reg Nag
+ * Imporved Patch Patterns
+ * Remove IDMGrHlp patch
+ + Added -noupdate to cmd
+ 
+== Change Log v17.8 ==
+ * Fixed Reg Nag
+ 
+== Change Log v17.7 ==
+ * Fixed Reg Nag On UpdateMenu
+ 
+== Change Log v17.6 ==
+ * Fixed Expired Nag
+ 
+== Change Log v17.x ==
+ * Improved Patcher
+ * Update Patch Pattern
+ * Improved Reg Reset
+ 
+== Change Log v16.9 ==
+ * Remove UPX Packer
+ * Update Patch Pattern
+ 
+== Change Log v16.8 ==
+ + New Reg Reset!!!
+ * Updated Patch Patterns
+ 
+== Change Log v16.7 ==
+ * Updated Patch Patterns
+ 
+== Change Log v16.6 ==
+ * Updated Patch Patterns
+ 
+== Change Log v16.1-5 ==
+ * Updated Patch Patterns
+ * Fixed minor bugs
+ 
+== Change Log v16.0 ==
+ + Added Update Options
+ * Fixed some bugs
+ 
+== Change Log v15.9 ==
+ * Fixed Update Checker
+ * Optimize Patch Patterns
+ * Fixed some bugs
+ 
+== Change Log v15.7 ==
+ + Fixed VBS access denied
+ * Update Patch Pattern
+ * Update Interface 
+ 
+== Change Log v15.5 ==
+ + Force url to open with browser
+ * Improved IDM Disable/Enabler
+ 
+== Change Log v15.4.3 ==
+ * Minor improvements
+ 
+== Change Log v15.4.2 ==
+  * Fixed TaskKiller
+  * Better ExecuteAndWait function
+ 
+== Change Log v15.4 ==
+  * Fixed Randomize function_
+     Conflicted with Ikarus
+  * Small Improvement
+ 
+== Change Log v15.3 ==
+  + Added Internal KeyGen by IMPosTOR
+    Thanks to AliAhwazTop
+  + Generate Randomly Registration data
+  + Changed IDM Update Checker Method
+  * Fixed Bugs
+ 
+== Change Log v14.9 ==
+  + Added PE Unsigner and Checksum Fixer
+  + Added IDM Disabler/Enabler
+  * Improved IDM Registrar  
+ 
+== Change Log v14.6 ==
+  * Fixed Update Checker
+ 
+== Change Log v14.5 ==
+  * Improved Patch Patterns
+  * Update Check under SSL
+  * Small Improvement
+ 
+== Change Log v14.0 ==
+ * Removed Toolbar Installer
+ * Change Auto Update Check
+    to manual update check
+ * Removed Crack Downloader
+ * Disable IDM Update Check
+ * Improved VBS Args
+ * Fixed IDM Dir Finder
+ * Check IDM Install Status
+ * Improved command line options
+ * Fixed Bugs
+ 
+== Change Log v13.0 ==
+ + Added CommandLine -help
+ + Unicode Compatibility
+ * Improved IDM TaskKiller
+ * Improved IDM Dir Finder
+ * Disable Change default TBar
+ * Fixed Bugs
+ 
+== Change Log v12.0 ==
+ * Improved crack size
+ * Improved security
+ * Minor improvements
+ * Fixed Bugs
+ 
+== Change Log v11.0 ==
+ + Added Tools PopMenu
+ + Added Feedback form
+ + Added Crack Restore
+ + Added Custom registration
+ + Added Jumper to IDM Registry
+ + Added IDM Unistaller
+ + Added IDM Backup Manager
+ + Added IDM Password Decryptor
+ + Added IDM Disabler/Enabler
+ + Added Speed Booster
+ * Improved IDM Backup
+ * Updated IDM TBar Skins
+ * Improved IDM Update Checker
+ * Fixed Bugs
+ 
+== Change Log v9.95 ==
+ + Find IDM by registry
+ + Running one instance of patch
+ 
+== Change Log v9.65 ==
+ + Added Toolbar Skin Changer
+ 
+== Change Log v9.54 ==
+ + Added IDM Update Checker
+ * Small Improvement
+ * Fixed Bugs
+ 
+== Change Log v9.11 ==
+ * Improved Patch Info
+ 
+== Change Log v9.01 ==
+ * Minor improvements
+ 
+== Change Log v9.00 ==
+ * Improved vbs code
+ + Change bat code to vbs
+ - Don't use the StripReloc
+ - VirusTotal: 0/53 - 100% Clean
+ 
+== Change Log v8.50 ==
+ * Improved Patcher
+ * Fixed Thread process
+ * Improved Auto Reg
+ * Fixed bugs
+ 
+== Change Log v8.0 - 8.17 ==
+ + Added IDM Update Checker
+ * Fixed Auto Reg
+ * Fixed Bugs
+ 
+== Change Log v7.0 ==
+ + Rewrite Patch
+ 
+== Change Log v6.0 ==
+ + Change UI
+ * Fixed Excu Batch
+ 
+== Change Log v5.0 ==
+ * Change Skin
+ * hide console window
+ * Better reg import
+ * Start IDM after crack
+ * Reduce crack size
+ 
+== Change Log v4.0 ==
+ * Updated Patch Patterns
+ * Modified Patch Engine
+ 
+== Change Log v3.4 ==
+ * Fixeded Patch Pattern
+ 
+== Change Log v3.3 ==
+ * Improved TaskKiller
+ * Improved AutoRegister
+ 
+== Change Log v3.2 ==
+ * Update Patch Pattern
+ 
+== Change Log v3.1 ==
+ * Update Patch Pattern
+ 
+== Change Log v3.0 ==
+ * Update Patch Pattern
+ * Patch Packed (reduce size)
+ * Update SN key
+ 
+== Change Log v2.5 ==
+ * Change Manifest
+ 
+== Change Log v2.4 ==
+ * Remove UPX Packer
+ 
+== Change Log v2.3 ==
+ * Fixed IDM TaskKiller
+ 
+== Change Log v2.2 ==
+ * Improve IDM TaskKiller & Auto Register
+ * Change SFX and ICO
+ 
+== Change Log v2.0 ==
+ * Change Skin (reduce size)
+ * Exe Packed By UPX (reduce size)
+ + Added IDM TaskKiller
+ + Added IDM Auto Register
+ - Remove "Enter YourName" input
+ 
+== Change Log v1.0 ==
+ - initial release

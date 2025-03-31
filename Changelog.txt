@@ -4,6 +4,13 @@ LEGEND
 + New feature
 * Improvement/modification or bug fix
 
+
+== Change Log v19.8 ==
+  + Crack update check when running the crack
+  + ADD WinRAR/Windows/Office Activation
+  * Other Improvement 
+  * Build #1 CRC32 > 20c376ec
+
 == Change Log v19.7 ==
   * Improve Patcher Function
   * Improve Crack UI Function 
