@@ -5,6 +5,16 @@ LEGEND
 * Improvement/modification or bug fix
 
 
+== Change Log v20.0 ==
+  + NEW Crack + IDM Update Check on Crack Open
+  * Change exe packer
+  * Build #1 CRC32 > ec3200ec
+
+== Change Log v19.9 ==
+  + ADD ChrisTitusTech/WinUtil (WinToolBox)
+  * WinRAR Auto/Silent Activation
+  * Build #1 CRC32 > db3d7a60
+
 == Change Log v19.8 ==
   + Crack update check when running the crack
   + ADD WinRAR/Windows/Office Activation
