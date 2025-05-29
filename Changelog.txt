@@ -5,6 +5,11 @@ LEGEND
 * Improvement/modification or bug fix
 
 
+== Change Log v20.1 ==
+  + Change Packer to UPX for Kaspersky-friendly
+  * Improve WinRAR Registration
+  * Build #1 CRC32 > 4964c2ce
+
 == Change Log v20.0 ==
   + NEW Crack + IDM Update Check on Crack Open
   * Change exe packer
